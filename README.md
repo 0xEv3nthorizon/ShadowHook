@@ -3,6 +3,16 @@
 > "Bypass EDR. Execute Shellcode. Remain Undetected."
 
 ---
+# ShadowHook
+
+[![C](https://img.shields.io/badge/C-C99+-blue)](https://en.wikipedia.org/wiki/C99)
+[![Assembly](https://img.shields.io/badge/Assembly-x64-red)](https://www.nasm.us/)
+[![MinGW-w64](https://img.shields.io/badge/MinGW--w64-8.0+-orange)](https://www.mingw-w64.org/)
+[![NASM](https://img.shields.io/badge/NASM-2.15+-yellow)](https://www.nasm.us/)
+[![Make](https://img.shields.io/badge/Make-4.0+-brightgreen)](https://www.gnu.org/software/make/)
+[![Windows](https://img.shields.io/badge/Windows-10+-blue)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/0xEv3nthorizon/ShadowHook)
 
 ## Disclaimer
 
@@ -54,9 +64,8 @@ make
 ```
 ### Run (Windows) ###
 
-``` bash
-ShadowHook.exe
-```
+> ShadowHook.exe
+
 ### Run (Linux with Wine) ###
 
 ``` bash
