@@ -1,10 +1,3 @@
-# ShadowHook - Advanced EDR/AV Bypass Framework
-
-"Bypass EDR. Execute Shellcode. Remain Undetected."
-
----
-# ShadowHook
-
 [![C](https://img.shields.io/badge/C-C99+-blue)](https://en.wikipedia.org/wiki/C99)
 [![Assembly](https://img.shields.io/badge/Assembly-x64-red)](https://www.nasm.us/)
 [![MinGW-w64](https://img.shields.io/badge/MinGW--w64-8.0+-orange)](https://www.mingw-w64.org/)
@@ -13,6 +6,13 @@
 [![Windows](https://img.shields.io/badge/Windows-10+-blue)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/0xEv3nthorizon/ShadowHook)
+
+# ShadowHook - Advanced EDR/AV Bypass Framework
+
+"Bypass EDR. Execute Shellcode. Remain Undetected."
+
+---
+# ShadowHook
 
 ## Disclaimer
 
