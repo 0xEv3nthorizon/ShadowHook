@@ -1,6 +1,6 @@
 # ShadowHook - Advanced EDR/AV Bypass Framework
 
-> "Bypass EDR. Execute Shellcode. Remain Undetected."
+"Bypass EDR. Execute Shellcode. Remain Undetected."
 
 ---
 # ShadowHook
